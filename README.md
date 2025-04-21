@@ -42,7 +42,8 @@ To uncover patterns and key insights from Chicago's traffic crash data, aiding c
 ---
 
 ## 🛠️ Pipeline Overview
-<img width="869" alt="image" src="https://github.com/user-attachments/assets/6dca5be0-5104-42fa-a5e9-c13c90055c31" />
+
+![Blank diagram - Page 2 (1)](https://github.com/user-attachments/assets/81fe081c-f379-47ea-b96c-c8f8ca1a9c99)
 
 
 1. **🔹 Azure Blob Storage**
